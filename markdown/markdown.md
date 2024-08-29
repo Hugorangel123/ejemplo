@@ -23,47 +23,47 @@ A continuacion les explicare como programar en Markdown de una forma rapida y se
 ## Heading 2
 ### Heading 3
 
-# Texto
+## Texto
 holaaaaaa
 HOLA
 
 HOLA!!  
 ADIOS!!
 
-# Texto en negritas
+## Texto en negritas
 Texto en **negritas**  
 Texto en __negritas__
 
-# Texto en italica
+## Texto en italica
 Texto en *italica*  
 Texto en _italica_
 
-# Texto en negritas y en italica
+## Texto en negritas y en italica
 Texto en ***negritas y en italica***  
 Texto en ___negritas y en italica___  
 Texto en __*negritas y en italica*__  
 Texto en **_negritas y en italica_**
 
-# Texto tachado
+## Texto tachado
 Texto ~~tachado~~
 
-# Texto subrayado
+## Texto subrayado
 Texto ==subrayado==  
 Texto <mark>subrayado</mark>
 
-# Subindices y superindices
-## Superindices
+## Subindices y superindices
+### Superindices
 X^2^  
 X<sup>2</sup>
-## Subindice
+### Subindice
 H~2~O  
 H<sub>2</sub>O
 
-# Emojis
+## Emojis
 :smile:  
 🤑
 
-# Bloques de codigo
+## Bloques de codigo
 ```
 int x=0;
 int y;
@@ -77,18 +77,18 @@ int y;
 y=x+2;
 Console.WriteLine(y);
 ```
-# Links
+## Links
 [link a mi github](https://github.com/dgarc2)
 
 <https://github.com/dgarc2>
 
-# Anotaciones
+## Anotaciones
 > Esto es importante!
 >> Esto tambien!
 >>> Tambien esto...
 >>>> Y esto...
 
-# Listas
+## Listas
 1. Uno
 2. Dos
 3. Tres
@@ -105,7 +105,7 @@ Console.WriteLine(y);
       * 4
 
 
-# Tablas
+## Tablas
 Tabla alineada a la izquierda (default)
 | columna 1 | columna 2 |
 |-----------|-----------|
@@ -132,12 +132,12 @@ Tabla alineada al centro
 |3          |tres       |
 |4          |cuatro     |
 
-# Checklists
+## Checklists
 Les gusto esta presentacion?
 - [ ] No
 - [x] Si
 
-# Bibliografia
+## Bibliografia
 * [The Only Markdown Crash Course You Will Ever Need](https://youtu.be/_PPWWRV6gbA?si=wm3zI9dYzpd4HT9I)
 * [¿Por qué debes aprender MARKDOWN?](https://youtu.be/77Ggk1uzO2A?si=4EgSe5ggkCzgO-d0)
 * [What is markdown?](https://youtu.be/f49LJV1i-_w?si=a4WeMGjza7Q29cL5)
